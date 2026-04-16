@@ -21,6 +21,6 @@ Vous y trouverez :
 
 - [TP1: Premiers pas en Java](TPs/TP01.pdf)  
 - [TP2: Les bases de programmation avec Java](TPs/TP02.pdf)  
-
+- [TP3: Classes, attributs, méthodes, constructeurs](TPs/TP03.pdf)  
   
 *(les autres series de TPs seront ajoutées progressivement)*
