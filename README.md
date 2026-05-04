@@ -12,7 +12,8 @@ Vous y trouverez :
 
 - [Chapitre 1: Introduction](slides/chapter1.pdf)  
 - [Chapitre 2: Les bases du langage Java](slides/chapter2.pdf)  
-- [Chapitre 3: La Programmation Orientée Objet avec Java](slides/chapter3.pdf)  
+- [Chapitre 3: La Programmation Orientée Objet avec Java](slides/chapter3.pdf)
+- [Chapitre 4: Des concepts avancés de la programmation orientée objet Java (Héritage)](slides/chapter4.pdf)
 
 
 ---
@@ -21,6 +22,7 @@ Vous y trouverez :
 
 - [TP1: Premiers pas en Java](TPs/TP01.pdf)  
 - [TP2: Les bases de programmation avec Java](TPs/TP02.pdf)  
-- [TP3: Classes, attributs, méthodes, constructeurs](TPs/TP03.pdf)  
+- [TP3: Classes, attributs, méthodes, constructeurs](TPs/TP03.pdf)
+- [TP4: Héritage](TPs/TP04.pdf)  
   
 *(les autres series de TPs seront ajoutées progressivement)*
